@@ -4,7 +4,7 @@
   <!-- <HelloWorld msg="Welcome to Your Vue.js App" /> -->
   
   <!-- <HomePage data="Vijay is here"/> -->
-  <HomePage data="Vijay is here" msg="hi from vijay0"/>
+  <HomePage data="Vijay is here" msg="hi from vijay"/>
   </div>
 </template>
 
